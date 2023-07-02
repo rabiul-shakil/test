@@ -1,1 +1,3 @@
 This is test1 file. I have writed something there.
+
+logo allignment changed is done.
